@@ -1,0 +1,1 @@
+###比賽網址:https://www.kaggle.com/competitions/ncnu-1112-nlp-midterm-project
